@@ -1,3 +1,3 @@
 document.addEventListener('DOMContentLoaded', function() {
-    console.log('The page is fully loaded and parsed.');
+    console.log('Mahmoud Mohamed\'s CV page is fully loaded.');
 });
